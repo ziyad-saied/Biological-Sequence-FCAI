@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1622051562 source:e:\code\bioseq1\main.cpp
+	<cstdio>
+	<typeinfo>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<chrono>
+
+1622112088 source:d:\code\bioseq1\main.cpp
+	<cstdio>
+	<typeinfo>
+	<iostream>
+	<cstring>
+	<algorithm>
+	<chrono>
+
